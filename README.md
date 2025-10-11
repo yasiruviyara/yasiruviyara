@@ -1,8 +1,6 @@
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="banner" width="30%" />
-</p>
-
+</p> -->
 ###
 
 <h2 align="left">💡 About Me</h2>
