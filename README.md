@@ -41,10 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
   <img width="12" />
 
-  <!-- Express -->
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="40" alt="express logo" />
-  <img width="12" />
-
   <!-- TypeScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
@@ -75,10 +71,6 @@
 
   <!-- GitHub -->
   <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40" alt="github logo" />
-  <img width="12" />
-
-  <!-- Figma -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="12" />
 
   <!-- Postman -->
