@@ -9,6 +9,7 @@
 
 <p align="left">
 👨‍💻 I’m a passionate <strong>Full-Stack Developer</strong> with 1+ year of experience building <strong>responsive, scalable, and efficient web applications</strong>.<br>
+🎓 Pursuing a <strong>Bachelor of Information Technology (External) Degree</strong> at <strong>University of Moratuwa</strong>.<br> 
 💼 Started as an <strong>Intern Front-End Developer</strong>, then worked as a <strong>Junior Web Developer</strong>, contributing to <strong>various projects</strong>.<br>
 🚀 Currently an <strong>Associate Full-Stack Developer</strong> and freelance developer, delivering <strong>robust software solutions</strong> with real-world value.<br>
 🎯 Eager to create <strong>impactful, innovative, and professional projects</strong> that make a difference.
