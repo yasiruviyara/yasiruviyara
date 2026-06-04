@@ -80,6 +80,3 @@
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="40" alt=" logo" />
 </div><br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasiruviyara&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasiruviyara&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
