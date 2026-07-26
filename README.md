@@ -10,7 +10,7 @@
 <p align="left">
 👨‍💻 <strong>Software Developer</strong> focused on building <strong>scalable backends, web applications, and mobile applications</strong>.<br>
 🎓 Final-year BIT (External) Undergraduate at <strong>University of Moratuwa</strong> Balancing academics with my professional career.<br>
-💼 <strong>2 years</strong> of hands-on experience as a <strong>Full-Stack Developer</strong>, delivering robust and production-ready software solutions.<br>
+💼 <strong>2 years</strong> of hands-on experience as a <strong>Full-Stack Developer</strong>, delivering robust, scalable, and efficient software solutions.<br>
 🎯 Eager to create <strong>impactful, innovative, and professional projects</strong> that make a difference.
 </p>
 
